@@ -16,7 +16,7 @@ Este projeto demonstra a aplicação prática de conceitos fundamentais de compi
 
 ## 🛠️ Stack Tecnológica
 
-* **Linguagem Principal:** Python (ou outra linguagem utilizada no projeto)
+* **Linguagem Principal:** C
 * **Conceitos & Paradigmas:** Autômatos, Gramáticas Livres de Contexto (GLC), Árvores Sintáticas e Tratamento de Erros
 
 ---
